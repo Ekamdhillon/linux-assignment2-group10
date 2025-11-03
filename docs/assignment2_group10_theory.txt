@@ -1,0 +1,11 @@
+Question- What are special path symbols ., .., and ~ used for in Linux?
+Answer-
+The symbol "." represents the current directory.  
+The symbol ".." represents the parent directory (one level up).  
+The symbol "~" represents the current user’s home directory.
+Question- Briefly describe the purpose of these directories: bin/, etc/, var/, and media/.
+Answer-
+/bin – Contains essential user command binaries like ls, cp, mv, etc.
+/etc – Stores system configuration files.
+/var – Holds variable data such as logs, cache, and temporary files.
+/media – Used to mount external storage devices like USB drives or CDs.
